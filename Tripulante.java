@@ -6,6 +6,7 @@ public class Tripulante {
         this.nombre = nombre;
         this.rol = rol;
     }
+    
 
     public String getNombre() {
         return nombre;
